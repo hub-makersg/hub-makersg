@@ -14,6 +14,8 @@
   <a href="https://makersg.com"><img alt="Website" src="https://img.shields.io/badge/makersg.com-2E4A66?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://makersg.com/store"><img alt="Cửa hàng" src="https://img.shields.io/badge/C%E1%BB%ADa%20h%C3%A0ng-4C6E8A?style=for-the-badge&logo=shopify&logoColor=white"></a>
   <a href="https://makersg.com/projects"><img alt="Dự án" src="https://img.shields.io/badge/D%E1%BB%B1%20%C3%A1n%20DIY-2E4A66?style=for-the-badge&logo=bookstack&logoColor=white"></a>
+  <a href="https://shopee.vn/makersg"><img alt="Shopee" src="https://img.shields.io/badge/Shopee-EE4D2D?style=for-the-badge&logo=shopee&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@makersaigon"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </p>
 
 ---
@@ -46,6 +48,8 @@ MakerSG là xưởng nhỏ làm phần cứng mở cho người thích tự tay 
 | 🌐 Website | [makersg.com](https://makersg.com) |
 | 🛒 Cửa hàng | [makersg.com/store](https://makersg.com/store) |
 | 📚 Hướng dẫn dự án | [makersg.com/projects](https://makersg.com/projects) |
+| 🧡 Shopee | [shopee.vn/makersg](https://shopee.vn/makersg) |
+| 🎬 TikTok | [@makersaigon](https://www.tiktok.com/@makersaigon) |
 
 ---
 
